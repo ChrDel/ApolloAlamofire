@@ -41,5 +41,5 @@ and solves known limitations of Apollo iOS library.
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'Alamofire', '~> 5.0.2'
-  s.dependency 'Apollo', '~> 0.23.2'
+  s.dependency 'Apollo', '~> 0.24.0'
 end
